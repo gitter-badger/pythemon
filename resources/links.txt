@@ -1,0 +1,11 @@
+1. Stats
+#########
+http://bulbapedia.bulbagarden.net/wiki/List_of_Pok%C3%A9mon_by_base_stats_(Generation_VI-present)
+http://sprunge.us/HZfH
+http://hax.iimarck.us/files/rbdex.txt
+
+Debating wether or not to implement a scraping function that automaticly finds all stats on any pokemon, as soon as they need them
+
+2. ROM
+########
+http://datacrystal.romhacking.net/wiki/Pok%C3%A9mon_Red_and_Blue:ROM_map
